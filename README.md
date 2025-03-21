@@ -1,4 +1,4 @@
-# Technological University of the Philippines Visayas
+# TUPV COMPUTER ENGINEERING
 Welcome to the **Programming 5 - Python** repository!  
 This repo includes course materials, exercises, and projects focused on advanced Python programming.
 
