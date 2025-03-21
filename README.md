@@ -1,4 +1,3 @@
-![TUPV CpE Official Logo](https://github.com/user-attachments/assets/14727abb-402b-4b9e-a4de-e8346fb711ee)
 # Technological University of the Philippines Visayas
 Welcome to the **Programming 5 - Python** repository!  
 This repo includes course materials, exercises, and projects focused on advanced Python programming.
