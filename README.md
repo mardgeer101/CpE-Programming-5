@@ -1,7 +1,7 @@
 <table style="border-collapse: collapse;">
   <tr>
     <th colspan="2" style="text-align:center; padding: 10px; font-size: 18px;">
-      TUPV CpE Department
+      Computer Programming 5
     </th>
   </tr>
   <tr>
@@ -11,7 +11,8 @@
            width="100">
     </td>
     <td style="padding: 10px;">
-      <strong>Jayson John J. Quintanilla</strong><br>
+      <strong>Dr. Jayson John J. Quintanilla, CCpE</strong><br>
+      Computer Engineering Department<br>
       College of Engineering<br>
       Technological University of the Philippines Visayas
     </td>
