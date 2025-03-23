@@ -32,17 +32,17 @@ By the end of this course, you will be able to develop more complex programs and
 
 ## 🗓️ Schedule Overview
 
-| Topic                               | Key Concepts                                                                                           |
-|-------------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Introduction & Setup**            | Python history, installation, IDEs (PyCharm, VSCode, Jupyter), basic syntax                           |
-| **Data Types & Operators**          | Numbers, Strings, Booleans, Type conversion, Arithmetic/Comparison/Logical Operators                  |
-| **Control Flow & User Input**       | If-Else, Nested conditions, Match-case (Python 3.10+)                                                 |
-| **Loops**                           | For and While loops, Break/Continue, Nested loops                                                     |
-| **Functions**                       | Defining functions, Arguments, Return values, Scope, Lambda functions                                 |
-| **Data Structures I**               | Lists, Tuples, Indexing, Slicing, Methods                                                             |
-| **Data Structures II**              | Dictionaries, Sets, Comprehensions                                                                    |
-| **File Handling**                   | Read/Write text files, CSV basics, Context managers (`with` statement)                                |
-| **Error Handling & Exceptions**     | Try-Except, Finally, Custom exceptions                                                                |
-| **Object-Oriented Programming (OOP)** | Classes/Objects, Attributes, Methods, Inheritance, Encapsulation                                      |
-| **Modules & Libraries**             | Creating modules, Importing libraries, `math`, `datetime`, `random`, Intro to `pandas`/`numpy`       |
-| **Mini Project & Review**           | Combine all topics                                                                                    |
+| No. | Topic                               | Key Concepts                                                                                           |
+|----|-------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1  | **Introduction & Setup**            | Python history, installation, IDEs (PyCharm, VSCode, Jupyter), basic syntax                           |
+| 2  | **Data Types & Operators**          | Numbers, Strings, Booleans, Type conversion, Arithmetic/Comparison/Logical Operators                  |
+| 3  |**Control Flow & User Input**       | If-Else, Nested conditions, Match-case (Python 3.10+)                                                 |
+| 4  |**Loops**                           | For and While loops, Break/Continue, Nested loops                                                     |
+| 5  |**Functions**                       | Defining functions, Arguments, Return values, Scope, Lambda functions                                 |
+| 6  |**Data Structures I**               | Lists, Tuples, Indexing, Slicing, Methods                                                             |
+| 7  |**Data Structures II**              | Dictionaries, Sets, Comprehensions                                                                    |
+| 8  |**File Handling**                   | Read/Write text files, CSV basics, Context managers (`with` statement)                                |
+| 9  |**Error Handling & Exceptions**     | Try-Except, Finally, Custom exceptions                                                                |
+| 10  |**Object-Oriented Programming (OOP)** | Classes/Objects, Attributes, Methods, Inheritance, Encapsulation                                      |
+| 11  |**Modules & Libraries**             | Creating modules, Importing libraries, `math`, `datetime`, `random`, Intro to `pandas`/`numpy`       |
+| 12  |**Mini Project & Review**           | Combine all topics                                                                                    |
