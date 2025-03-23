@@ -1,8 +1,4 @@
-<center>
-![TUPV CpE Official Logo small](https://github.com/user-attachments/assets/5e338c27-0837-405d-91e0-4220fb1c3a36) 
-</center>
-
-# TUPV COMPUTER ENGINEERING
+![TUPV CpE Official Logo small](https://github.com/user-attachments/assets/c95462c1-c08f-4fe0-ab28-ab7bdbc97d47)
 
 Welcome to the **Programming 5 - Python** repository!  
 This repo includes course materials, exercises, and projects focused on advanced Python programming.
