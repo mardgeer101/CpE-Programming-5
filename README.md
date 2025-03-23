@@ -17,7 +17,7 @@ By the end of this course, you will be able to develop more complex programs and
 |-------------------------------------|--------------------------------------------------------------------------------------------------------|
 | **Introduction & Setup**            | Python history, installation, IDEs (PyCharm, VSCode, Jupyter), basic syntax                           |
 | **Data Types & Operators**          | Numbers, Strings, Booleans, Type conversion, Arithmetic/Comparison/Logical Operators                  |
-| **Control Flow**                    | If-Else, Nested conditions, Match-case (Python 3.10+)                                                 |
+| **Control Flow & User Input**       | If-Else, Nested conditions, Match-case (Python 3.10+)                                                 |
 | **Loops**                           | For and While loops, Break/Continue, Nested loops                                                     |
 | **Functions**                       | Defining functions, Arguments, Return values, Scope, Lambda functions                                 |
 | **Data Structures I**               | Lists, Tuples, Indexing, Slicing, Methods                                                             |
